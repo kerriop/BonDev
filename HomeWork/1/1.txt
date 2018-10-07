@@ -1,6 +1,0 @@
-1. Посмотреть видео
-https://www.youtube.com/watch?v=zvGeLvWZ7yQ
-2. Почитать про питон
-https://metanit.com/python/tutorial/
-3. Установить анаконду
-https://www.anaconda.com
